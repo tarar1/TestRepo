@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7372" started-at="2015-04-13T23:47:35Z" finished-at="2015-04-13T23:47:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7372" started-at="2015-04-13T23:47:35Z" finished-at="2015-04-13T23:47:42Z">
+      <class name="tequila.test.LondonWeatherTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tequila.test.LondonWeatherTest@10fdc382]" name="setUp" is-config="true" duration-ms="4743" started-at="2015-04-14T00:47:35Z" finished-at="2015-04-14T00:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="londonweather()[pri:0, instance:tequila.test.LondonWeatherTest@10fdc382]" name="londonweather" duration-ms="2564" started-at="2015-04-14T00:47:40Z" finished-at="2015-04-14T00:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- londonweather -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:tequila.test.LondonWeatherTest@10fdc382]" name="quitDriver" is-config="true" duration-ms="49" started-at="2015-04-14T00:47:42Z" finished-at="2015-04-14T00:47:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- tequila.test.LondonWeatherTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
