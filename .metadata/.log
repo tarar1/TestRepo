@@ -1,0 +1,32 @@
+!SESSION 2015-04-13 16:07:15.835 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product -keyring /Users/FTarar/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product -data /Users/FTarar/workspaces/exercise -product org.eclipse.epp.package.standard.product -keyring /Users/FTarar/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-04-13 16:07:19.729
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.salesforce.ide.core 2 0 2015-04-13 16:28:59.524
+!MESSAGE  WARN [2015-04-13 16:28:59,521] (ConnectionFactory.java:clearCache:209) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-04-13 16:28:59.524
+!MESSAGE  WARN [2015-04-13 16:28:59,524] (DescribeObjectRegistry.java:clearCache:654) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2015-04-13 16:28:59.525
+!MESSAGE  WARN [2015-04-13 16:28:59,524] (MetadataFactory.java:clearCache:120) - No cached metadata stubs
+
+!SESSION 2015-04-13 16:39:07.201 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -keyring /Users/FTarar/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -keyring /Users/FTarar/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-04-13 16:39:13.135
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
